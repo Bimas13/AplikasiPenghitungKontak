@@ -5,6 +5,10 @@
         <group>
             <file>file:/C:/Users/Lenovo/OneDrive/NetBeansProjects/AplikasiPenghitungKontak/src/Database/DatabaseSetup.java</file>
             <file>file:/C:/Users/Lenovo/OneDrive/NetBeansProjects/AplikasiPenghitungKontak/src/Database/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/NetBeansProjects/AplikasiPenghitungKontak/src/Controller/kontakcontroller.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/NetBeansProjects/AplikasiPenghitungKontak/src/Model/KontakDAO.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/NetBeansProjects/AplikasiPenghitungKontak/src/Model/Kontak.java</file>
+            <file>file:/C:/Users/Lenovo/OneDrive/NetBeansProjects/AplikasiPenghitungKontak/src/View/PengelolakontakFrame.java</file>
         </group>
     </open-files>
 </project-private>
